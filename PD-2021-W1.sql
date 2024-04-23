@@ -1,3 +1,5 @@
+--Written in Snowflake 
+
 --Temprary table for functions
 WITH SplitStoreBike AS 
 (
